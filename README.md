@@ -10,7 +10,7 @@ Next update :-
 ## iOS Screenshots
   HomePage                 |   Product Detail Page        |  Cart Page
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/mani-shashi/ProductVisualizer/blob/main/screenshots/ios_screenshot_1.png?raw=true)|![](https://github.com/mani-shashi/ProductVisualizer/blob/main/screenshots/ios_screenshot_2.png?raw=true)|![](https://github.com/mani-shashi/ProductVisualizer/blob/main/screenshots/ios_screenshot_3.png?raw=true)
+![](https://github.com/mani-shashi/ProductVisualizerApp/blob/main/screenshots/ios_screenshot_1.png?raw=true)|![](https://github.com/mani-shashi/ProductVisualizerApp/blob/main/screenshots/ios_screenshot_2.png?raw=true)|![](https://github.com/mani-shashi/ProductVisualizerApp/blob/main/screenshots/ios_screenshot_3.png?raw=true)
 
 ## Directory Structure
 ```
